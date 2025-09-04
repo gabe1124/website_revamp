@@ -16,4 +16,4 @@ In order to be considered for the program, the student must create a proposal.
 - A paragraph describing the cloud technologies that will be used
 - A cost estimate, and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy
 
- To **submit a proposal**, fill out the following form [<ins>**here**</ins>](https://forms.gle/d4wnSHW7pEo4baCz5) **and** either send an email to [<ins>**nlsschim@uw.edu**</ins>](mailto:nlsschim@uw.edu) **or** send a Slack message to Nels Schimek on the [<ins>**RCC Slack channel**</ins>](https://uw-rcc.slack.com).
+ To **submit a proposal**, fill out the following form [<ins>**here**</ins>](https://forms.gle/d4wnSHW7pEo4baCz5) and either send an email to [<ins>**nlsschim@uw.edu**</ins>](mailto:nlsschim@uw.edu) or send a Slack message to Nels Schimek on the [<ins>**RCC Slack channel**</ins>](https://uw-rcc.slack.com).
