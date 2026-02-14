@@ -9,6 +9,7 @@ nav:
       - Terms of Service: hyak_TOS.md
       - Prereqs: prerequisites.md
       - Getting Access: hyak_access.md
+  - Tillicum: tillicum.md
   - Cloud: cloud.md
   - Events: https://calendar.washington.edu/sea_uwit-rc
   - People: people.md
