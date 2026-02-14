@@ -19,8 +19,8 @@ nav:
 
 theme:
   name: material
-  logo: logo.png
-  favicon: logo.png
+  logo: img/logo2026.jpg
+  favicon: img/W-Logo_Purple_RGB.png
   features:
     - navigation.tabs
     - navigation.footer

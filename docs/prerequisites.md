@@ -2,13 +2,18 @@
 
 Before you can use Hyak, you must meet a few preerequisites related to using the command line. Hyak doesn't have a graphical user interface with windows and a mouse like your personal computer does. Instead, you interact with Hyak via a 'shell'. Every action you take on Hyak will be entered to this shell as a text command. If you have used a linux system before, this is likely familiar to you. If not, it is fast to learn!
 
-## Getting a terminal on your local computer
+## Before You Login
 
-You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [<ins>**HERE**</ins>](https://learn.microsoft.com/en-us/windows/wsl/) to install.
+[<ins>**Ensure you have reviewed the login requirements.**</ins>](https://github.com/UWrc/linux-fundamentals.git)
 
 ## Hyak Basics
 
-Follow this [<ins>**link**</ins>](https://hyak.uw.edu/docs/hyak101/basics/syllabus) to complete the Hyak Basics Tutorial which includes basic Linux fundamentals tailored to Hyak users.
+* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git).
+* [<ins>**Review the Hyak Short How-To Video Collection**</ins>](https://hyak.uw.edu/learn)
+    * [<ins>**Hyak Klone Login**</ins>](https://youtu.be/gbse1xqezqk)
+    * [<ins>**Hyak Home Directories**</ins>](https://youtu.be/OhLwqAZIBOo)
+    * [<ins>**Hyak Klone Filesystem**</ins>](https://youtu.be/VFGREiZ37x0)
+    * [<ins>**Hyak Klone Slurm**</ins>](https://youtu.be/jgHXB7IfGPQ?si=0lFpU_ujrQoUUmyb)
 
 ## Editing text files
 
@@ -16,11 +21,9 @@ Most jobs you run on Hyak will involve editing text files with configuration inf
 
 On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks. We suggest picking one and becoming comfortable with it.
 
-[<ins>**Intro to Vim and Emacs**</ins>](https://linuxjourney.com/lesson/regular-expressions-regex)
+* [<ins>**Intro to Vim and Emacs**</ins>](https://linuxjourney.com/lesson/regular-expressions-regex)
+* [<ins>**Intro to Nano**</ins>](https://linuxize.com/post/how-to-use-nano-text-editor/)
 
-[<ins>**Intro to Nano**</ins>](https://linuxize.com/post/how-to-use-nano-text-editor/)
-
-When working with files, you may also need to modify [<ins>**file permissions**</ins>](https://linuxjourney.com/lesson/file-permissions).
 
 <!-- ##Accessing remote machines with SSH -->
 
