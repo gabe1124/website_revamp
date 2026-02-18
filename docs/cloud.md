@@ -1,17 +1,13 @@
 # Cloud
 
-The RCC Cloud Credit program enables **UW students** to use Cloud services for research or class projects with up to $500 of provided credits per student, as well as receive guidance and troubleshooting.
+The RCC Cloud Credit program enables **UW Seattle students** to use Cloud services for research or class projects with up to $500 of provided credits per student, as well as receive guidance and troubleshooting.
 
-Students have a choice of using:
+RCC is currently providing **AWS Accounts** through CloudBank. 
 
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Program (GCP)
-
+## Get Cloud Credits
 In order to be considered for the program, the student must create a proposal.
 
-## Requirements of proposal
-
+### Requirements
 - A paragraph describing the project the credits will be used for
 - A paragraph describing the cloud technologies that will be used
 - A cost estimate, and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy

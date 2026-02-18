@@ -2,13 +2,12 @@
 
 Hyak is UW's high performance computing resource. Research Computing Club maintains a large account on Hyak's Klone cluster. This includes standard compute, GPU, and large memory nodes. Hyak is well suited to 'traditional' job-based computing workflows such as molecular dynamics, DFT, and machine learning model training. Most users should start with Hyak before considering cloud resources. Information on using Hyak can be found in the [<ins>**documentation**</ins>](https://hyak.uw.edu/docs).
 
-## Hyak Trainings
+## Trainings and Office Hours
 
-Find step-by-step instructions and tutorials for common tools in Hyak's [<ins>**Documentation**</ins>](https://hyak.uw.edu/docs)
-
-Hyak training sessions are recorded and available through the [<ins>**Research Computing Training Playlist on UW-IT's YouTube channel**</ins>](https://youtube.com/playlist?list=PL-uLiqrTav1omqc7omKsLzRg2ng3nKCtj&si=ACwxjc0PV67AQfxm)
-
-[<ins>**Subscribe to subscribe to the Hyak mailing list**</ins>](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements.
+* Find step-by-step instructions and tutorials for common tools in Hyak's [<ins>**Documentation**</ins>](https://hyak.uw.edu/docs).
+* Hyak training sessions are recorded and available. [<ins>**See Hyak Learning Resource**</ins>](https://hyak.uw.edu/docs/learn)
+* [<ins>**Subscribe to subscribe to the Hyak mailing list**</ins>](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements.
+* Hyak Specialists and RCC Officers hold regular drop in Office Hours. [<ins>**See the UWIT Research Computing Event Calendar**</ins>](https://calendar.washington.edu/sea_uwit-rc) to find a time that works for you. 
 
 ## RCC Resources
 
@@ -24,3 +23,5 @@ RCC has the following resources on Klone. Thanks to a block funding allocation f
 |gpu-l40s|4|32|384 GB|8|1|1536 GB|8|
 |compute-hugemem|3|40|750 GB|N/A|3|750 GB|N/A|
 |interactive|1|1|192 GB|N/A|1|192 GB|N/A|
+
+![Student Tech Fee Logo](./img/stf.png 'STF Logo')

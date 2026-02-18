@@ -75,6 +75,8 @@ We expect you to acknowledge the use of RCC Hyak resources used in the completio
 This acknowledgement should include the use of Hyak and funding from the UW student technology fee (STF).
 The phrase "Funded by the Student Technology Fee" and/or the STF logo must appear on web pages, social media posts, and any other materials advertising or referencing your project.
 
+![Student Tech Fee Logo](./img/stf.png 'STF Logo')
+
 An example acknowledgement is:
 
 - “[Parts of] This work was/were completed on Hyak, UW’s high performance computing cluster. This resource was funded by the UW student technology fee.”
