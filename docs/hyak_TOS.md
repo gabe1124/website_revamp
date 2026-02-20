@@ -28,7 +28,7 @@ Some activities may fall into a gray area between personal development and comme
 
 ## Getting Access to Hyak
 
-The full procedure for gaining access to the Hyak STF account is posted at [[Getting Access]](hyak_access.md/). This procedure involves:
+The full procedure for gaining access to the Hyak STF account is posted at [<ins>**Getting Access**</ins>](hyak_access.md/). This procedure involves:
 
 - Establishing eligibility, as described in the eligibility section
 
