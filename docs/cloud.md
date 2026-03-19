@@ -10,9 +10,9 @@ In order to be considered for the program, the student must create a proposal.
 ### Requirements
 - A paragraph describing the project the credits will be used for
 - A paragraph describing the cloud technologies that will be used
-- A cost estimate, and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy
+- A cost estimate and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy
 
- To **submit a proposal**, fill out the following form [<ins>**here**</ins>](https://forms.gle/d4wnSHW7pEo4baCz5) **and** either send an email to [<ins>**hpcc@uw.edu**</ins>](mailto:hpcc@uw.edu).
+ To **submit a proposal**, fill out the following form [<ins>**here**</ins>](https://forms.gle/d4wnSHW7pEo4baCz5) and send an email to [<ins>**hpcc@uw.edu**</ins>](mailto:hpcc@uw.edu).
  
 Thanks to a block funding allocation from the UW Student Technology Fee committee, we are able to support student reseach and cloud computing.
  

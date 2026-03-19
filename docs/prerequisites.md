@@ -1,6 +1,10 @@
 # Hyak Prerequisites
 
-Before you can use Hyak, you must meet a few preerequisites related to using the command line. Hyak doesn't have a graphical user interface with windows and a mouse like your personal computer does. Instead, you interact with Hyak via a 'shell'. Every action you take on Hyak will be entered to this shell as a text command. If you have used a linux system before, this is likely familiar to you. If not, it is fast to learn!
+“Please ensure you meet a few prerequisites before attempting to login to Hyak Klone via 
+the shell or via Open OnDemand.
+
+* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git)
+* [<ins>**Review the Hyak Short How-To Video Collection:**</ins>](https://hyak.uw.edu/learn) 
 
 ## Before You Login
 

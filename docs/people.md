@@ -1,19 +1,14 @@
-# Academic Year 2024- 2025 Officers
-
-**Sam Shin** |
-President
-
-**Teerth Metha** |
-Vice President
-
-**Nels Schimek** |
-Cloud Director
+# Academic Year 2025-2026 Officers
 
 **Kenny Lam** |
-Hyak Director
+President
 
-**Lingnan Shen** |
-AI/ML Director
+## Officers
+
+- Sam Shin
+- Morgan Sanger
+- Taeyun Kim
+- Ethan Li
 
 ## Advisors
 
@@ -21,7 +16,7 @@ AI/ML Director
 Faculty Advisor
 
 **Kristen Finch** |
-UW-IT Research Computing Representative
+UWIT Research Computing Representative
 
 **Kaichen Xie** |
-UW-IT Research Computing Representative
+UWIT Research Computing Representative

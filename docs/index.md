@@ -1,12 +1,12 @@
 # About Research Computing Club
 
-Research Computing Club at the University of Washington is a registered student organization that exists to support student computational research. RCC uses funding provided by the UW Student Technology Fee (STF) to maintain nodes on UW's Hyak high performance computing cluster and to provide cloud credits for student use. RCC also works with partners to provide training and support for users of these resources.
+Research Computing Club at the University of Washington is a registered student organization that exists to support student computational research. RCC uses funding provided by the UW Student Technology Fee (STF) to provide access to UW's supercomputers Hyak Klone and Tillicum and to provide cloud credits for student use. RCC also works with its partners UWIT and the eScience Institute to provide training and support for users of these resources.
 
 ![Student Tech Fee Logo](./img/stf.png 'STF Logo')
 
 ## Resources
 
-RCC makes high performance computing resources available in the form of high performance computing cluster access and a cloud credit program. We maintain a large account on [<ins>**Hyak**</ins>](https://hyak.uw.edu/), UW's HPC cluster. This account provides access to CPU and GPU nodes. Our cloud credit program gives students additional flexibility in selecting compute resources.
+RCC manages student priority access to computing resources on Hyak Klone, providing access to CPU-only computing nodes and GPU-accelerated nodes. See our [<ins>**current equipment holdings on Hyak Klone**</ins>](./hyak.md). RCC also supports student access to [<ins>**AWS cloud computing credits**</ins>](./cloud.md) and [<ins>**Tillicum GPU cluster**</ins>](./tillicum.md). These resources are available to students who want to learn and explore, need computing resources for their research project, or need computing resources to take their capstone project to the next level.
 
 ## Joining RCC
 
